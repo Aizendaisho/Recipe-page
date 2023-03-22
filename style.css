@@ -2,6 +2,56 @@ body{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
+}
+.container-1{
+
+}
+
+.title{
+    font-family: 'Playfair Display', serif;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.parrafo{
+    font-family: 'Montserrat', sans-serif;
+}
+.imagen{
+    height: 470px;
+}
+.plate{
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    color: #333333;
+
+}
+
+.recipe{
+    display: flex;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.checkbox{
+    
+}
+.times{
+    display: flex;
+
+}
+.times-letters{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+
+.spoon{
+    color: rgb(221, 188, 41);
+    
 }
